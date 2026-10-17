@@ -2,7 +2,7 @@
 
 Installers for **Snippbot Desktop**, the native macOS and Windows app for your own Snippbot daemon: Quick Chat on a global hotkey (⌥Space / Alt+Space) and a split-pane workspace for all your agents. This repository only hosts release files; it contains no source code.
 
-**Download the latest:** [Releases → latest](https://github.com/saixiong/snippbot-desktop-releases/releases/latest)
+**Download:** [Releases](https://github.com/saixiong/snippbot-desktop-releases/releases) (newest at the top; desktop builds are beta pre-releases for now)
 
 - **macOS:** `Snippbot_<version>_macOS-AppleSilicon.dmg` (M1 and later) or `Snippbot_<version>_macOS-Intel.dmg`
 - **Windows:** `Snippbot_<version>_Windows.exe` (installs for your account only, no admin rights needed)
